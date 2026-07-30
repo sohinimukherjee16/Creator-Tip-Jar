@@ -1,0 +1,6 @@
+{
+  "name": "Creator Tip Jar",
+  "description": "A premium, glassmorphism-styled Creator Tip Jar application where fans can send tips in XLM and view recent supporters in an elegant feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
