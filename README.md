@@ -53,15 +53,6 @@ This Tip Jar is fully integrated with the Stellar blockchain!
 - **Creator Stellar ID:** `GCSYR6C5EMWT4ZYJYEP4GH3JXXJDXLXKWD655IMRRR3NBS5HR7OXU6FY`
 - **Supported Wallets:** Freighter, Albedo, and WalletConnect via `@creit.tech/stellar-wallets-kit`
 
----
-
-Made by BIBEK DAS
-
-
-
- 
-
----
 ### Smart Contract Details
 Deployed Contract Address: CA3YF7VXFOPP7OFZDZS5JQKLQWKDIEXTGYGB3JLQMVGN4GGAOYD6ORUZ
 Transaction hash of a contract call: 5c2a9ea42fb49d2aacb0d65ea5ea714fa4c647fa88f679eccce631e273092e83
